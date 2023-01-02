@@ -1,5 +1,6 @@
-.App {
-  text-align: center;
+:root {
+  --card-width: 300px;
+  --circle-size: 50px;
 }
 
 .App-logo {
